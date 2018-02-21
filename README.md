@@ -1,2 +1,2 @@
 # audiorecorder
-demo js audio recorder
+demo audio recorder by js
